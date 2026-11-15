@@ -6,7 +6,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/biswash12-stac">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Hey+there%2C+I'm+Biswash+%F0%9F%91%8B;Building+with+Next.js+%2B+TypeScript;Backend+APIs+%7C+JWT+%7C+MongoDB;On+my+way+to+Full+Stack+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Hey+there%2C+I'm+Biswash+%F0%9F%91%8B;Building+with+Next.js+%2B+TypeScript;Backend+APIs+%7C+Express+%7C+MongoDB;On+my+way+to+Full+Stack+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building **production-style backends** with **Next.js API Routes, TypeScript & MongoDB**
+- 🔭 Currently building **full-stack apps** with **Next.js, Express, TypeScript & MongoDB**
 - 🌱 Leveling up toward **full stack development**: React on the front, Node on the back
 - 🔐 Into auth, role-based access control and clean API design
 - 🏴‍☠️ Fun fact: I've built a One Piece project, so yes, I'm a fan
@@ -30,7 +30,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,mongodb&perline=9" alt="languages and frameworks" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,mongodb&perline=10" alt="languages and frameworks" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman&perline=5" alt="tools" />
@@ -38,7 +38,27 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### 🛒 [Malta: Nepali Grocery E-commerce](https://github.com/biswash12-stac/malta-project)
+
+Full-stack online store where Nepali people living in Malta order groceries from home, with an admin dashboard for the owner.
+
+- 🛍️ Product catalog with **categories, search and pagination**, plus cart and **cash-on-delivery checkout**
+- 📦 **Order tracking** with a status timeline and estimated delivery date
+- 🧑‍💼 **Admin dashboard** for managing products, categories and orders
+- 🔐 **JWT + Google sign-in**, bcrypt, Helmet, rate limiting and Zod validation
+- 🧪 Tested with **Jest + Supertest**, with GitHub Actions CI
+- 🎞️ Smooth **GSAP** animations on a Tailwind CSS frontend
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
 ### 🏢 [Manpower Recruitment Platform: Backend](https://github.com/biswash12-stac/Manpower-project)
 
@@ -60,26 +80,27 @@ Production-ready backend for a manpower recruitment platform.
 
 ### 📂 More Projects
 
-<p align="left">
-  <a href="https://github.com/biswash12-stac/one-piece-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=biswash12-stac&repo=one-piece-project&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/biswash12-stac/training-point"><img src="https://github-readme-stats.vercel.app/api/pin/?username=biswash12-stac&repo=training-point&theme=tokyonight&hide_border=true" /></a>
-</p>
+| Project | Built with |
+|---|---|
+| 🏴‍☠️ [one-piece-project](https://github.com/biswash12-stac/one-piece-project) | JavaScript |
+| 📘 [training-point](https://github.com/biswash12-stac/training-point) | JavaScript |
+| 🗂️ [All my repositories →](https://github.com/biswash12-stac?tab=repositories) | |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=biswash12-stac&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswash12-stac&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biswash12-stac&theme=tokyonight" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=biswash12-stac&theme=tokyonight" alt="GitHub stats" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biswash12-stac&theme=tokyonight" alt="Top languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=biswash12-stac&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=biswash12-stac&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
 ---
